@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no, date=no, email=no, address=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
+    <!--[if (mso 16)]> <style type="text/css"> a { text-decoration: none; } </style> <![endif]-->
+    <!--[if gte mso 9]> <style> sup { font-size: 100% !important; } </style> <![endif]-->
+    <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]-->
+    <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]-->
+    <link href="/campaign/stripo/css/custom.css?v=695848" rel="stylesheet" type="text/css">
+</head>
+
+<body class="es-wrapper-color">
+    <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+                <td class="esd-email-paddings" valign="top">
+                    <table class="es-content esd-header-popover" cellspacing="0" cellpadding="0" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center">
+                                    <table class="es-content-body" width="650" cellspacing="0" cellpadding="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table width="100%" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="esd-container-frame" width="650" valign="top" align="center">
+                                                                    <table width="100%" cellspacing="0" cellpadding="0" bgcolor="#fff" style="background-color: #ffffff;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4LoKQ/2022/03/07/2d466a7b-c07c-45b2-81ef-c01650f6b6fd.png?id=10453611" alt style="display: block;" width="535"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p30" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 0px solid #cccccc; background: unset; height: 1px; width: 100%; margin: 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table cellpadding="0" cellspacing="0" class="es-content" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <p>Estimado Cliente,&nbsp;<br><br>Para poder utilizar el cupón de descuento sólo debe agregar el siguiente código:</p>
+                                                                                    <p style="text-align: center;">NUMEROSECRETO<br><br></p>
+                                                                                    <p style="text-align: center;">Abajo te mostramos cómo usar el código en<br><a target="_blank" href="http://www.soluinteg.com.ec" style="text-align: center;">www.soluinteg.com.ec</a>&nbsp;🙌<br><br>Recuerda que el primer paso siempre es crear el usuario con nuestra cédula, <br>desde esa cuenta se mostrará el carrito de compras.<br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table cellpadding="0" cellspacing="0" class="es-content" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4LoKQ/2022/08/16/e94a5cf6-b35f-4388-9021-2eb46f9dd20b.jpeg?id=14869402" alt style="display: block;" width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4LoKQ/2022/08/16/bbecfd21-2c44-46b1-9a94-a3e58be38619.jpeg?id=14869404" alt style="display: block;" width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p>Debes agregar el código en la barra y hacer click en aplicar para <br>generar el descuento. Continuar haciendo click en Pagar Orden, <br>donde debería mostrarse el valor total con el&nbsp;descuento aplicado.<br><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table cellpadding="0" cellspacing="0" class="es-content esd-footer-popover" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#004cff" style="background-color: #004cff;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-social es-p15t es-p15b es-p20r es-p20l" style="font-size: 0px; background-color: #01428b;" bgcolor="#01428B">
+                                                                                    <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" valign="top" class="es-p10r"><a target="_blank" href="https://www.facebook.com/SoluInteg.com.ec/"><img title="Facebook" src="https://stripo.cluster.app-us1.com/static/assets/img/social-icons/rounded-gray-bordered/facebook-rounded-gray-bordered.png" alt="Facebook" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="linkedin" class="es-p10r"><a target="_blank" href="https://ec.linkedin.com/in/claudiamelissagarzon"><img title="Linkedin" src="https://stripo.cluster.app-us1.com/static/assets/img/social-icons/rounded-gray-bordered/linkedin-rounded-gray-bordered.png" alt="Linkedin" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="youtube" class="es-p10r"><a target="_blank" href="https://www.youtube.com/watch?v=DtCOSTFDYEU&list=PLcAfQVrTBLUQi-QYpITCHbnbwJK9_jaVT"><img title="Youtube" src="https://stripo.cluster.app-us1.com/static/assets/img/social-icons/rounded-gray-bordered/youtube-rounded-gray-bordered.png" alt="Youtube" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="instagram" class="es-p10r"><a target="_blank" href="https://www.instagram.com/soluinteg/?hl=es"><img title="Instagram" src="https://stripo.cluster.app-us1.com/static/assets/img/social-icons/rounded-gray-bordered/instagram-rounded-gray-bordered.png" alt="Instagram" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="whatsapp"><a target="_blank" href="https://wa.me/message/4JRX563GPWPZN1"><img title="Whatsapp" src="https://stripo.cluster.app-us1.com/static/assets/img/messenger-icons/rounded-gray-bordered/whatsapp-rounded-gray-bordered.png" alt="Whatsapp" width="32"></a></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text es-p30t es-p15b es-p30r es-p30l" esd-links-color="#ffffff" esd-links-underline="underline" bgcolor="#01428B">
+                                                                                    <p style="font-size: 13px; color: #ffffff;">Si no quieres seguir recibiendo nuestros correos puedes <a target="_blank" style="font-size: 13px; color: #ffffff; text-decoration: underline;" href="%UNSUBSCRIBELINK%">unsubscribe</a>.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text es-p15t es-p15b es-p15r es-p30l" esd-links-color="#ffffff" bgcolor="#01428B">
+                                                                                    <p style="font-size: 13px; color: #ffffff;">www.soluinteg.com.ec<br>¡Gracias por confiar en nosotros!</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table class="ac-footer" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+            <tr>
+                <td align="center" style="padding-top:20px; padding-bottom:20px; background: inherit; font-family: inherit; font-size: 11px; color: inherit;">
+                    <p style="font-family: inherit; font-size: inherit; color: inherit;"> Enviado a: %EMAIL%<br><br><a style="font-family: inherit; color: inherit; font-weight: bold;" href="%UNSUBSCRIBELINK%" target="_blank">Cancelar suscripción</a><br><br><span class="perstag_address" style="color: inherit; font-family: inherit; font-size: 11px; color: inherit;">%SENDER-INFO-SINGLELINE%</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
